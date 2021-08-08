@@ -3,7 +3,8 @@ layout: page
 title: Hässleholms Rc Buggy Klubb 
 ---
 
-# Allmänt
+
+## Allmänt
 
 [Inbjudan och regler](Information.pdf)
 
@@ -11,15 +12,15 @@ title: Hässleholms Rc Buggy Klubb
 
 [Tidsschema](Tidschema.pdf)
 
-# Resultat 
+## Resultat 
 
-## Träning
-
-
-## Kval
+### Träning
 
 
-## Finaler
+### Kval
+
+
+### Finaler
 
 
 
