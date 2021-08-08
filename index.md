@@ -3,10 +3,15 @@ layout: page
 title: Hässleholms Rc Buggy Klubb 
 ---
 
-### Allmänt
-[Inbjudan och regler](https://getbootstrap.com/)
+# Allmänt
 
-[Heatindelning](https://getbootstrap.com/)
+[Inbjudan och regler](Information.pdf)
+
+[Heatindelning](Heatindelning.pdf)
+
+[Tidsschema](Tidschema.pdf)
+
+# Resultat 
 
 ## Träning
 
