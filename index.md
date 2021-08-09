@@ -9,9 +9,6 @@ title: Hässleholms Rc Buggy Klubb
 <br/><br/>
 ## Tävling
 
-<br/><br/>
-### Allmänt
-
 [Inbjudan och regler](Information.pdf)
 
 [Heatindelning](Heatindelning.pdf)
