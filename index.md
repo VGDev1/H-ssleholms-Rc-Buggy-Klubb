@@ -5,7 +5,7 @@ title: Hässleholms Rc Buggy Klubb
 
 ## Tips & Tricks
 
-[Underhåll](https://github.com/VGDev1/H-ssleholms-Rc-Buggy-Klubb/blob/master/underha%CC%8All.pdf)
+[Underhåll](Underhall.pdf)
 
 ## Tävling
 
