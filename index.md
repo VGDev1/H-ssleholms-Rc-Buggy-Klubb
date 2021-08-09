@@ -2,18 +2,12 @@
 layout: page
 title: Hässleholms Rc Buggy Klubb 
 ---
-
+<br/><br/>
 ## Tips & Tricks
 
 [Underhåll](Underhall.pdf)
-
-
-
-
+<br/><br/>
 ## Tävling
-
-
-
 
 ### Allmänt
 
