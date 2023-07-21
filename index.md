@@ -9,7 +9,7 @@ title: Hässleholms Rc Buggy Klubb
 <br/><br/>
 ## Tävling
 
-[Heatindelning](heatindelning.pdf)
+[Heatindelning](Heatindelning.pdf)
 
 [Tidsschema](Tidschema.pdf)
 
